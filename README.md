@@ -1,4 +1,4 @@
-# vocabmaster
+# VocabMaster
 
 A new Flutter project.
 
